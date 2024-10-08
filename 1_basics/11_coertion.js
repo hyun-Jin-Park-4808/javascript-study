@@ -54,3 +54,4 @@ console.log(!![]); // array도 true
  * 2) 값이 없는 경우
  * 3) 0 
  */
+
